@@ -11,7 +11,7 @@ import Create from "./screens/Create";
 import { createBottomTabNavigator } from "@react-navigation/bottom-tabs";
 // import Home from './screens/components/HomeSearchBar';
 const Tabs = createBottomTabNavigator();
-// Kevin was here!
+
 export default function App() {
 	{
 		/*Return function  */
